@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi there 👋, I'm Debanshu Sehgal
 
-<!--
-**debanshu7/debanshu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst and electronic engineering student passionate about technology and its application in solving social problems in an economically viable way.
 
-Here are some ideas to get you started:
+🔭 A little bit more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export const aboutDebanshuSehgal = {
+
+    languages: [ "Python",  "R"],
+    
+    technologies: {
+    
+        Analytics: [
+        
+            "SQL",
+            
+            "Excel",
+            
+            "Power BI",
+            
+            "Tableau",
+            
+            "Firebase",
+            
+        ],
+        
+        databases: [ "PostgreSQL", "MYSQL", "ZohoRecruit" ],
+        
+        devtools: [ "git", "vercel", "netlify", "railways", "scrum", "linux" ]
+        
+    },
+    
+       interests: [ "Analytics", "startups & business", "health", "science", "reading" ],
+    
+       currently Working With: "Agile Engine"
+    
+       currently Working On: "DS Data Consultants"
+    }
+
+📫 How to reach me:
+
+Email: debanshusehgal@gmail.com
+
+Whatsapp: +91 8860717135
+
+Portfolio: https://debanshusehgal.carrd.co/
+
+Linkedin: https://www.linkedin.com/in/debanshusehgal7/
+
+Tableau: https://public.tableau.com/app/profile/debanshu7
